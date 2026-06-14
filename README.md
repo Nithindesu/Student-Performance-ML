@@ -10,8 +10,8 @@ Using a tabular dataset of student records, the notebook walks through data load
 
 | File | Description |
 |------|-------------|
-| `Sudent Perfomance/Student_perfomance.ipynb` | Main notebook: EDA, preprocessing, model training and evaluation |
-| `Sudent Perfomance/student_data.csv` | Dataset of student records used for training |
+| `Student Performance/Student_Performance.ipynb` | Main notebook: EDA, preprocessing, model training and evaluation |
+| `Student Performance/student_data.csv` | Dataset of student records used for training |
 
 ## Workflow
 
@@ -32,7 +32,7 @@ cd Student-Performance-ML
 pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 # Launch the notebook
-jupyter notebook "Sudent Perfomance/Student_perfomance.ipynb"
+jupyter notebook "Student Performance/Student_Performance.ipynb"
 ```
 
 ## Tech Stack
